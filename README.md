@@ -9,7 +9,6 @@ Desenvolver um teste de interface automatizado para o cadastro no Melhor Envio,
 utilizando o ambiente de sandbox da plataforma. O teste deverá contemplar ao menos um
 cenário de sucesso, onde o cadastro é realizado com sucesso e um de erro, onde o cadastro
 não é realizado por algum erro de validação.
----
 
 ## Tecnologias Utilizadas
 
@@ -20,7 +19,7 @@ O projeto foi realizado utilizando as seguintes tecnologias:
 - Hamcrest
 - Exportação de arquivo para teste em massa no formato CSV
 
----
+
 ## Automação
 
 - O automação usa como entrada os dados contido no arquivo csv.
