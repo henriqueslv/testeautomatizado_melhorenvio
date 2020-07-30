@@ -32,9 +32,9 @@ Senha, Cep, Número da Casa, Resultado (o resultado é o que você espera do cad
 válidos e nunca cadastrados no site você coloca como: **"positivo"**, caso contrário coloca como: **"negativo"**, 
 colocando negativo significa dizer que você sabe que os dados estão incorretos ou já foram cadastrados e você que provar).
 
-- Os dados contidos no arquivo csv podem ser testados 1 vez, ao rodar o arquivo lembre-se de alterar o resultado  que 
-tem "positivo" para "negativo", pois uma vez cadastrados eles passam para base de dados.
+- Os dados contidos no arquivo csv com resultado "positivo" podem ser testados 1 vez, ao rodar o teste mais vezes lembre-se de alterar o resultado  que 
+tem "positivo" para "negativo", pois uma vez cadastrados eles não podem ser cadastrados de novo.
 
 ## Evidências
 
-- Através da pasta resources obtemos as screenshots como evidência para cadastro com sucesso e para cadastros que deram errado.
+- Através da pasta resources na raíz do projeto, obtemos as screenshots como evidência para cadastro com sucesso e para cadastros que deram errado.
