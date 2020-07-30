@@ -1,0 +1,5 @@
+nome;sobrenome;nomeDaLoja;celular;cpf;dataNascimento;opcaoLocalVenda;vendaPorMes;email;confirmarEmail;senha;ConfirmarSenha;cep;numeroCasa;resultado;
+Henrique;Silva;Vendas Online Express;8199899-9935;442.174.980-04;25/03/1990;Redes Sociais e/ou WhatsApp;100;testehenrique65665@gmail.com;testehenrique65665@gmail.com;123456henrique;123456henrique;52051-000;10;negativo;
+Maria;Souza;Maria's ecommerce;8199899-1616;141.625.050-64;26/03/1990;Redes Sociais e/ou WhatsApp;101;testehenrique656565@gmail.com;testehenrique656565@gmail.com;123456henrique;123456henrique;52051-001;11;negativo;
+Joaquim;Marcos; Marcos Equipadora; 1188999-9852;504.569.240-27;05/05/1990;Marketplaces;50;marcosequipadora123@gmail.com;marcosequipadora123@gmail.com;marcos123;marcos123;24110-256;122;positivo;
+Lucas;Fernando; Fernando Motos; 1188999-9222;653.792.170-87;05/05/1990;Loja virtual de desenvolvimento próprio;10;lfmotos123@gmail.com;lfmotos123@gmail.com;marcos123;marcos123;24110-256;122;positivo;
